@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "annular-bucksaw-483715-v2",
+  "private_key_id": "bb3301e853f1397218177b92244cc4b74bbad806",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGcV1f654y7f1V\n+yPvzYYSqdlRMrENqleR0rb9JNO+C7wUGOd304oPHaFBKMRXxSABXCUXhwoCfGiZ\nzwdRMWSt8KTjdKbkes0gbQN6V8L8PHiF9Ydrcc1N7rCivRNAcXlvupsoXbiEyzJ/\n9mDpnc4kM/BLvfc9fOvB+uElvwFQ/Dk0e8nc7RQoKnMUSb4rJHmAXnQfXANqpK3Q\n1+ert4ImIv7FVzQCjImPaodEeISEbivhO7X4CLUFo6hv2N0d6zgE+VJmECfA/lRD\nkTOvGqKi9s70AKoBvdKDsk++6q+Kf1b97lOEvFCFvG82RkSmLLegfXiGEVwFvWMF\no0BIcMrnAgMBAAECggEAPsBSeqaTXB+N4MaN0qL3Jqe3JMoW2u9myaIMY3hlzM8B\nJonJiEbIfYctGuG9VNPtDwEIaaw2KhsVKK4i7jXkVGyod5THwbBjdUGDvAhMjF7C\n7fl6XSubdG1qRcvsbpBzijVEIzufwb5Ptc8/TiCssx4JeqoTqMn781dWIw2HaQgK\nhiFNzYUfoQLleX1P0YPM4KhyaVaQczKwSkLlT9jctwyeXzkRHU0fk306RuMokmg0\n0KOv7E81AtTZXPiMw2Q/x3z+VcQ6/iNB0LbW/3Uz3J7IPtZUf3XYbGa1Zhnq6rBv\nIC+VIhdqtQlTxugZ6+z/2sf00lvbdwvn+3uW4LqJwQKBgQDsyz2fEL7khIaoOMsh\nYD5MsN9Cpfe5a6rdWYuvwIbeBC+bxoHGHBQpCOhHTB8wspowyCwciQRLNPJmHJFE\ncib/lxqmis8GMgNzZchmodJjZcHfYGg9F3oIkyk8Cf+7jS125T4n39Qjpovq5w+B\na3vejTSJYFBxSqJtp5YO7FkMDwKBgQDWic6Y5oen4UYglM1O+/ghlqhQoXPIOFpe\nzun+eAjoUkIuIJasOmR0FbFd0CjpOFjO3URdGjz5FTPzGLQhsHKztrFKCZIOtBwI\nsTUQkZptK0mHmFtDMJj5sUy5OX8sqCSK8/3UKlwu5GCVgG3YkxnZhdKZV0FdIbDi\nZqeGSznbqQKBgQCk2z7UjnkIacfCOIAbhYD6La3SHfBhFDeKEbyxqK18xpdKsaJK\nBeR3SS9F7BZO9hlpWwNy/mWR4pPcSYlNiNfj3BR+3GcTniBO6A7kfUcXUpHubZVE\n6yJX8/SiSyfTMI/1ldZ3NlrgUyRYb3OZG/bKU66+8eIvbdG13BYZ36yDOwKBgGlB\n74UBBemOEzQFDb4EzbbdDfORYxcG3v/JEPDyv5wMT8AF6SbS91olEoJukMPsC1Zj\nJRlwuB2VE4nfwvEMexpFNjKXA3wHTgHNv7VDWrrZFBhc3dnXTBalsHjoBsdIL7Wl\nBBJGPjgbgG+ZNUue0H3ytGLbdoxU7U4HA4ZV/isRAoGBAMmI/NVMAnf3pkc1qDGq\nqWsFRAV2c+lMoZ2TiI63zrBi7pYI/JnfL9D2lBO5GR+hpJKlpOubuvpi9IKzU53y\nvrNABoR9nxcHQXIbJ+cXccZBtEOwnUMIoo1K2t6Owewij50haoIJCdHT9vnW/TnD\nZJqrM1fwgSbiGGY+DyMNc9WM\n-----END PRIVATE KEY-----\n",
+  "client_email": "pixie-scraper@annular-bucksaw-483715-v2.iam.gserviceaccount.com",
+  "client_id": "117828339445011480020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pixie-scraper%40annular-bucksaw-483715-v2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

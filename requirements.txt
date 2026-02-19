@@ -1,0 +1,6 @@
+supabase
+gspread
+beautifulsoup4
+requests
+pandas
+streamlit
