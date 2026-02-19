@@ -1,6 +1,7 @@
+streamlit>=1.35.0
+pandas
 supabase
-gspread
+altair<5
 beautifulsoup4
 requests
-pandas
-streamlit
+gspread
